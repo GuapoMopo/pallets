@@ -1,1 +1,1 @@
-Practice with CSS transitions. Replicated the homepage from https://palette.supply/ to practice skills.
+Practice with CSS transitions. Replicated the homepage from https://palette.supply/
